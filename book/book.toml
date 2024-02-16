@@ -7,3 +7,6 @@ title = "roguelike-bevy"
 
 [output.html]
 git-repository-url = "https://github.com/snow-The/roguelike-bevy"
+default-theme = "rust"
+preferred-dark-theme = "navy"
+git-repository-icon = "fa-code-fork"
