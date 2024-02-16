@@ -1,0 +1,15 @@
+[package]
+name = "roguelike-bevy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy.workspace = true
+
+[workspace]
+members = [
+    "day01-start",
+]
+
+[workspace.dependencies]
+bevy = "0.12"

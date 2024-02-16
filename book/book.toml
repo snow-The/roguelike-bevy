@@ -1,0 +1,6 @@
+[book]
+authors = ["snow-The"]
+language = "en"
+multilingual = false
+src = "src"
+title = "roguelike-bevy"
