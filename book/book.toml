@@ -1,6 +1,6 @@
 [book]
 authors = ["snow-The"]
-language = "zh"
+language = "zh_tw"
 multilingual = false
 src = "src"
 title = "roguelike-bevy"
