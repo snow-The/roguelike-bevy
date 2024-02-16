@@ -4,3 +4,6 @@ language = "zh_tw"
 multilingual = false
 src = "src"
 title = "roguelike-bevy"
+
+[output.html]
+git-repository-url = "https://github.com/snow-The/roguelike-bevy"
